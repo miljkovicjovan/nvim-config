@@ -11,3 +11,17 @@ This is my personal Neovim setup, focused on productivity and minimalism, powere
 - **Lualine** for a sleek status line
 - **Treesitter** for better syntax highlighting
 - **Devicons** and **UI select** enhancements
+
+### 📸 Screenshots
+
+Here’s a quick preview of the setup in action:
+
+#### File View
+![nvim](assets/screenshots/nvim.png)
+
+#### File Search (Telescope)
+![file-search](assets/screenshots/file-search.png)
+
+#### Fuzzy Search
+![fuzzy-search](assets/screenshots/fuzzy-search.png)
+

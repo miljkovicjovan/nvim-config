@@ -10,6 +10,7 @@ This is my personal Neovim setup, focused on productivity and minimalism, powere
 - **Neo-tree** for a modern file explorer
 - **Lualine** for a sleek status line
 - **Treesitter** for better syntax highlighting
+- **None-ls** for formatting and linting
 - **Devicons** and **UI select** enhancements
 
 ### 📸 Screenshots

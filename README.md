@@ -1,5 +1,7 @@
 # 🛠️ My Neovim Config
 
+I'm using this on my Arch (Hyprland) install and on my MacOS.
+
 This is my personal Neovim setup, focused on productivity and minimalism, powered by Lua and using the [lazy.nvim](https://github.com/folke/lazy.nvim) plugin manager.
 
 ### ✨ Features
